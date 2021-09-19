@@ -1,0 +1,2465 @@
+{
+ "GeneralInfo": {
+  "DeletionMark": false,
+  "PWCguid": "3616d7d2-e996-11eb-9754-00155d97af00",
+  "IsChangedDataEnd": false,
+  "DateBegin": "2020-07-07T16:44:00",
+  "DateEnd": "3999-12-31T23:59:59",
+  "PWCcode": "000002365",
+  "Description": "При покупке окрошки 300г  - квас стм в подарок",
+  "PromoTypeCode": "000000026",
+  "WorkingState": "Остановлена",
+  "Clients": {
+   "QtyClients": 0,
+   "UIDs": []
+  }
+ },
+ "Information": {
+  "GoodsLists": [
+   {
+    "GoodsComposition": [
+     {
+      "QtyGoods": 2,
+      "Value": 1,
+      "GoodsCode": [
+       "100493252",
+       "100636701"
+      ],
+      "ValueType": "Quantity"
+     }
+    ],
+    "QtyCompositions": 1,
+    "Prices": [
+     {
+      "StoreCode": "922",
+      "ColumnsName": [
+       "Item",
+       "SalePriceBeforePromo",
+       "SalePriceTimePromo",
+       "DatePriceBeforePromo"
+      ],
+      "QtyGoods": 1,
+      "Data": [
+       [
+        "100493252",
+        129,
+        79.1,
+        "2021-06-10T00:00:00"
+       ]
+      ]
+     },
+     {
+      "StoreCode": "904",
+      "ColumnsName": [
+       "Item",
+       "SalePriceBeforePromo",
+       "SalePriceTimePromo",
+       "DatePriceBeforePromo"
+      ],
+      "QtyGoods": 1,
+      "Data": [
+       [
+        "100493252",
+        129,
+        79.1,
+        "2021-06-10T00:00:00"
+       ]
+      ]
+     },
+     {
+      "StoreCode": "938",
+      "ColumnsName": [
+       "Item",
+       "SalePriceBeforePromo",
+       "SalePriceTimePromo",
+       "DatePriceBeforePromo"
+      ],
+      "QtyGoods": 1,
+      "Data": [
+       [
+        "100493252",
+        129,
+        79.1,
+        "2021-06-10T00:00:00"
+       ]
+      ]
+     },
+     {
+      "StoreCode": "1465",
+      "ColumnsName": [
+       "Item",
+       "SalePriceBeforePromo",
+       "SalePriceTimePromo",
+       "DatePriceBeforePromo"
+      ],
+      "QtyGoods": 1,
+      "Data": [
+       [
+        "100493252",
+        129,
+        79.1,
+        "2021-06-10T00:00:00"
+       ]
+      ]
+     },
+     {
+      "StoreCode": "960",
+      "ColumnsName": [
+       "Item",
+       "SalePriceBeforePromo",
+       "SalePriceTimePromo",
+       "DatePriceBeforePromo"
+      ],
+      "QtyGoods": 1,
+      "Data": [
+       [
+        "100493252",
+        129,
+        79.1,
+        "2021-06-10T00:00:00"
+       ]
+      ]
+     },
+     {
+      "StoreCode": "956",
+      "ColumnsName": [
+       "Item",
+       "SalePriceBeforePromo",
+       "SalePriceTimePromo",
+       "DatePriceBeforePromo"
+      ],
+      "QtyGoods": 1,
+      "Data": [
+       [
+        "100493252",
+        129,
+        79.1,
+        "2021-06-10T00:00:00"
+       ]
+      ]
+     },
+     {
+      "StoreCode": "957",
+      "ColumnsName": [
+       "Item",
+       "SalePriceBeforePromo",
+       "SalePriceTimePromo",
+       "DatePriceBeforePromo"
+      ],
+      "QtyGoods": 1,
+      "Data": [
+       [
+        "100493252",
+        129,
+        79.1,
+        "2021-06-10T00:00:00"
+       ]
+      ]
+     }
+    ],
+    "DiscountType": "AmountPerUnit",
+    "PriceOptions": [
+     {
+      "FirstValue": 1,
+      "Name": "Товар",
+      "Operator": "LessOrEqual",
+      "SecondValue": null,
+      "Type": "GoodsQuantity"
+     }
+    ],
+    "DiscountValue": 49.9,
+    "QtyPrices": 7,
+    "Name": "спар мск"
+   },
+   {
+    "GoodsComposition": [
+     {
+      "QtyGoods": 2,
+      "Value": 1,
+      "GoodsCode": [
+       "100493252",
+       "100636701"
+      ],
+      "ValueType": "Quantity"
+     }
+    ],
+    "QtyCompositions": 1,
+    "Prices": [
+     {
+      "StoreCode": "928",
+      "ColumnsName": [
+       "Item",
+       "SalePriceBeforePromo",
+       "SalePriceTimePromo",
+       "DatePriceBeforePromo"
+      ],
+      "QtyGoods": 1,
+      "Data": [
+       [
+        "100493252",
+        119,
+        79.1,
+        "2021-06-10T00:00:00"
+       ]
+      ]
+     },
+     {
+      "StoreCode": "1475",
+      "ColumnsName": [
+       "Item",
+       "SalePriceBeforePromo",
+       "SalePriceTimePromo",
+       "DatePriceBeforePromo"
+      ],
+      "QtyGoods": 1,
+      "Data": [
+       [
+        "100493252",
+        129,
+        89.1,
+        "2021-06-10T00:00:00"
+       ]
+      ]
+     },
+     {
+      "StoreCode": "1476",
+      "ColumnsName": [
+       "Item",
+       "SalePriceBeforePromo",
+       "SalePriceTimePromo",
+       "DatePriceBeforePromo"
+      ],
+      "QtyGoods": 1,
+      "Data": [
+       [
+        "100493252",
+        119,
+        79.1,
+        "2021-06-10T00:00:00"
+       ]
+      ]
+     },
+     {
+      "StoreCode": "1477",
+      "ColumnsName": [
+       "Item",
+       "SalePriceBeforePromo",
+       "SalePriceTimePromo",
+       "DatePriceBeforePromo"
+      ],
+      "QtyGoods": 1,
+      "Data": [
+       [
+        "100493252",
+        119,
+        79.1,
+        "2021-06-10T00:00:00"
+       ]
+      ]
+     },
+     {
+      "StoreCode": "1478",
+      "ColumnsName": [
+       "Item",
+       "SalePriceBeforePromo",
+       "SalePriceTimePromo",
+       "DatePriceBeforePromo"
+      ],
+      "QtyGoods": 1,
+      "Data": [
+       [
+        "100493252",
+        119,
+        79.1,
+        "2021-06-10T00:00:00"
+       ]
+      ]
+     },
+     {
+      "StoreCode": "1372",
+      "ColumnsName": [
+       "Item",
+       "SalePriceBeforePromo",
+       "SalePriceTimePromo",
+       "DatePriceBeforePromo"
+      ],
+      "QtyGoods": 1,
+      "Data": [
+       [
+        "100493252",
+        129,
+        89.1,
+        "2021-06-10T00:00:00"
+       ]
+      ]
+     },
+     {
+      "StoreCode": "1380",
+      "ColumnsName": [
+       "Item",
+       "SalePriceBeforePromo",
+       "SalePriceTimePromo",
+       "DatePriceBeforePromo"
+      ],
+      "QtyGoods": 1,
+      "Data": [
+       [
+        "100493252",
+        119,
+        79.1,
+        "2021-06-10T00:00:00"
+       ]
+      ]
+     },
+     {
+      "StoreCode": "1382",
+      "ColumnsName": [
+       "Item",
+       "SalePriceBeforePromo",
+       "SalePriceTimePromo",
+       "DatePriceBeforePromo"
+      ],
+      "QtyGoods": 1,
+      "Data": [
+       [
+        "100493252",
+        119,
+        79.1,
+        "2021-06-10T00:00:00"
+       ]
+      ]
+     },
+     {
+      "StoreCode": "1398",
+      "ColumnsName": [
+       "Item",
+       "SalePriceBeforePromo",
+       "SalePriceTimePromo",
+       "DatePriceBeforePromo"
+      ],
+      "QtyGoods": 1,
+      "Data": [
+       [
+        "100493252",
+        119,
+        79.1,
+        "2021-06-10T00:00:00"
+       ]
+      ]
+     },
+     {
+      "StoreCode": "1399",
+      "ColumnsName": [
+       "Item",
+       "SalePriceBeforePromo",
+       "SalePriceTimePromo",
+       "DatePriceBeforePromo"
+      ],
+      "QtyGoods": 1,
+      "Data": [
+       [
+        "100493252",
+        119,
+        79.1,
+        "2021-06-10T00:00:00"
+       ]
+      ]
+     },
+     {
+      "StoreCode": "1403",
+      "ColumnsName": [
+       "Item",
+       "SalePriceBeforePromo",
+       "SalePriceTimePromo",
+       "DatePriceBeforePromo"
+      ],
+      "QtyGoods": 1,
+      "Data": [
+       [
+        "100493252",
+        119,
+        79.1,
+        "2021-06-10T00:00:00"
+       ]
+      ]
+     },
+     {
+      "StoreCode": "1404",
+      "ColumnsName": [
+       "Item",
+       "SalePriceBeforePromo",
+       "SalePriceTimePromo",
+       "DatePriceBeforePromo"
+      ],
+      "QtyGoods": 1,
+      "Data": [
+       [
+        "100493252",
+        119,
+        79.1,
+        "2021-06-10T00:00:00"
+       ]
+      ]
+     },
+     {
+      "StoreCode": "1405",
+      "ColumnsName": [
+       "Item",
+       "SalePriceBeforePromo",
+       "SalePriceTimePromo",
+       "DatePriceBeforePromo"
+      ],
+      "QtyGoods": 1,
+      "Data": [
+       [
+        "100493252",
+        119,
+        79.1,
+        "2021-06-10T00:00:00"
+       ]
+      ]
+     },
+     {
+      "StoreCode": "1407",
+      "ColumnsName": [
+       "Item",
+       "SalePriceBeforePromo",
+       "SalePriceTimePromo",
+       "DatePriceBeforePromo"
+      ],
+      "QtyGoods": 1,
+      "Data": [
+       [
+        "100493252",
+        119,
+        79.1,
+        "2021-06-10T00:00:00"
+       ]
+      ]
+     },
+     {
+      "StoreCode": "1411",
+      "ColumnsName": [
+       "Item",
+       "SalePriceBeforePromo",
+       "SalePriceTimePromo",
+       "DatePriceBeforePromo"
+      ],
+      "QtyGoods": 1,
+      "Data": [
+       [
+        "100493252",
+        119,
+        79.1,
+        "2021-06-10T00:00:00"
+       ]
+      ]
+     },
+     {
+      "StoreCode": "1413",
+      "ColumnsName": [
+       "Item",
+       "SalePriceBeforePromo",
+       "SalePriceTimePromo",
+       "DatePriceBeforePromo"
+      ],
+      "QtyGoods": 1,
+      "Data": [
+       [
+        "100493252",
+        119,
+        79.1,
+        "2021-06-10T00:00:00"
+       ]
+      ]
+     },
+     {
+      "StoreCode": "1414",
+      "ColumnsName": [
+       "Item",
+       "SalePriceBeforePromo",
+       "SalePriceTimePromo",
+       "DatePriceBeforePromo"
+      ],
+      "QtyGoods": 1,
+      "Data": [
+       [
+        "100493252",
+        119,
+        79.1,
+        "2021-06-10T00:00:00"
+       ]
+      ]
+     },
+     {
+      "StoreCode": "1415",
+      "ColumnsName": [
+       "Item",
+       "SalePriceBeforePromo",
+       "SalePriceTimePromo",
+       "DatePriceBeforePromo"
+      ],
+      "QtyGoods": 1,
+      "Data": [
+       [
+        "100493252",
+        119,
+        79.1,
+        "2021-06-10T00:00:00"
+       ]
+      ]
+     },
+     {
+      "StoreCode": "1430",
+      "ColumnsName": [
+       "Item",
+       "SalePriceBeforePromo",
+       "SalePriceTimePromo",
+       "DatePriceBeforePromo"
+      ],
+      "QtyGoods": 1,
+      "Data": [
+       [
+        "100493252",
+        119,
+        79.1,
+        "2021-06-10T00:00:00"
+       ]
+      ]
+     },
+     {
+      "StoreCode": "1432",
+      "ColumnsName": [
+       "Item",
+       "SalePriceBeforePromo",
+       "SalePriceTimePromo",
+       "DatePriceBeforePromo"
+      ],
+      "QtyGoods": 1,
+      "Data": [
+       [
+        "100493252",
+        119,
+        79.1,
+        "2021-06-10T00:00:00"
+       ]
+      ]
+     },
+     {
+      "StoreCode": "1433",
+      "ColumnsName": [
+       "Item",
+       "SalePriceBeforePromo",
+       "SalePriceTimePromo",
+       "DatePriceBeforePromo"
+      ],
+      "QtyGoods": 1,
+      "Data": [
+       [
+        "100493252",
+        119,
+        79.1,
+        "2021-06-10T00:00:00"
+       ]
+      ]
+     },
+     {
+      "StoreCode": "1434",
+      "ColumnsName": [
+       "Item",
+       "SalePriceBeforePromo",
+       "SalePriceTimePromo",
+       "DatePriceBeforePromo"
+      ],
+      "QtyGoods": 1,
+      "Data": [
+       [
+        "100493252",
+        119,
+        79.1,
+        "2021-06-10T00:00:00"
+       ]
+      ]
+     },
+     {
+      "StoreCode": "1435",
+      "ColumnsName": [
+       "Item",
+       "SalePriceBeforePromo",
+       "SalePriceTimePromo",
+       "DatePriceBeforePromo"
+      ],
+      "QtyGoods": 1,
+      "Data": [
+       [
+        "100493252",
+        119,
+        79.1,
+        "2021-06-10T00:00:00"
+       ]
+      ]
+     },
+     {
+      "StoreCode": "1437",
+      "ColumnsName": [
+       "Item",
+       "SalePriceBeforePromo",
+       "SalePriceTimePromo",
+       "DatePriceBeforePromo"
+      ],
+      "QtyGoods": 1,
+      "Data": [
+       [
+        "100493252",
+        119,
+        79.1,
+        "2021-06-10T00:00:00"
+       ]
+      ]
+     },
+     {
+      "StoreCode": "1384",
+      "ColumnsName": [
+       "Item",
+       "SalePriceBeforePromo",
+       "SalePriceTimePromo",
+       "DatePriceBeforePromo"
+      ],
+      "QtyGoods": 1,
+      "Data": [
+       [
+        "100493252",
+        119,
+        79.1,
+        "2021-06-10T00:00:00"
+       ]
+      ]
+     },
+     {
+      "StoreCode": "1385",
+      "ColumnsName": [
+       "Item",
+       "SalePriceBeforePromo",
+       "SalePriceTimePromo",
+       "DatePriceBeforePromo"
+      ],
+      "QtyGoods": 1,
+      "Data": [
+       [
+        "100493252",
+        119,
+        79.1,
+        "2021-06-10T00:00:00"
+       ]
+      ]
+     },
+     {
+      "StoreCode": "1386",
+      "ColumnsName": [
+       "Item",
+       "SalePriceBeforePromo",
+       "SalePriceTimePromo",
+       "DatePriceBeforePromo"
+      ],
+      "QtyGoods": 1,
+      "Data": [
+       [
+        "100493252",
+        119,
+        79.1,
+        "2021-06-10T00:00:00"
+       ]
+      ]
+     },
+     {
+      "StoreCode": "1393",
+      "ColumnsName": [
+       "Item",
+       "SalePriceBeforePromo",
+       "SalePriceTimePromo",
+       "DatePriceBeforePromo"
+      ],
+      "QtyGoods": 1,
+      "Data": [
+       [
+        "100493252",
+        119,
+        79.1,
+        "2021-06-10T00:00:00"
+       ]
+      ]
+     },
+     {
+      "StoreCode": "1394",
+      "ColumnsName": [
+       "Item",
+       "SalePriceBeforePromo",
+       "SalePriceTimePromo",
+       "DatePriceBeforePromo"
+      ],
+      "QtyGoods": 1,
+      "Data": [
+       [
+        "100493252",
+        119,
+        79.1,
+        "2021-06-10T00:00:00"
+       ]
+      ]
+     },
+     {
+      "StoreCode": "1395",
+      "ColumnsName": [
+       "Item",
+       "SalePriceBeforePromo",
+       "SalePriceTimePromo",
+       "DatePriceBeforePromo"
+      ],
+      "QtyGoods": 1,
+      "Data": [
+       [
+        "100493252",
+        119,
+        79.1,
+        "2021-06-10T00:00:00"
+       ]
+      ]
+     },
+     {
+      "StoreCode": "1396",
+      "ColumnsName": [
+       "Item",
+       "SalePriceBeforePromo",
+       "SalePriceTimePromo",
+       "DatePriceBeforePromo"
+      ],
+      "QtyGoods": 1,
+      "Data": [
+       [
+        "100493252",
+        119,
+        79.1,
+        "2021-06-10T00:00:00"
+       ]
+      ]
+     },
+     {
+      "StoreCode": "1397",
+      "ColumnsName": [
+       "Item",
+       "SalePriceBeforePromo",
+       "SalePriceTimePromo",
+       "DatePriceBeforePromo"
+      ],
+      "QtyGoods": 1,
+      "Data": [
+       [
+        "100493252",
+        119,
+        79.1,
+        "2021-06-10T00:00:00"
+       ]
+      ]
+     },
+     {
+      "StoreCode": "1346",
+      "ColumnsName": [
+       "Item",
+       "SalePriceBeforePromo",
+       "SalePriceTimePromo",
+       "DatePriceBeforePromo"
+      ],
+      "QtyGoods": 1,
+      "Data": [
+       [
+        "100493252",
+        119,
+        79.1,
+        "2021-06-10T00:00:00"
+       ]
+      ]
+     },
+     {
+      "StoreCode": "1347",
+      "ColumnsName": [
+       "Item",
+       "SalePriceBeforePromo",
+       "SalePriceTimePromo",
+       "DatePriceBeforePromo"
+      ],
+      "QtyGoods": 1,
+      "Data": [
+       [
+        "100493252",
+        119,
+        79.1,
+        "2021-06-10T00:00:00"
+       ]
+      ]
+     },
+     {
+      "StoreCode": "1338",
+      "ColumnsName": [
+       "Item",
+       "SalePriceBeforePromo",
+       "SalePriceTimePromo",
+       "DatePriceBeforePromo"
+      ],
+      "QtyGoods": 1,
+      "Data": [
+       [
+        "100493252",
+        119,
+        79.1,
+        "2021-06-10T00:00:00"
+       ]
+      ]
+     }
+    ],
+    "DiscountType": "AmountPerUnit",
+    "PriceOptions": [
+     {
+      "FirstValue": 1,
+      "Name": "Товар",
+      "Operator": "LessOrEqual",
+      "SecondValue": null,
+      "Type": "GoodsQuantity"
+     }
+    ],
+    "DiscountValue": 39.9,
+    "QtyPrices": 35,
+    "Name": "спар не мск"
+   },
+   {
+    "GoodsComposition": [
+     {
+      "QtyGoods": 2,
+      "Value": 1,
+      "GoodsCode": [
+       "100493252",
+       "100636701"
+      ],
+      "ValueType": "Quantity"
+     }
+    ],
+    "QtyCompositions": 1,
+    "Prices": [
+     {
+      "StoreCode": "1303",
+      "ColumnsName": [
+       "Item",
+       "SalePriceBeforePromo",
+       "SalePriceTimePromo",
+       "DatePriceBeforePromo"
+      ],
+      "QtyGoods": 2,
+      "Data": [
+       [
+        "100493252",
+        129,
+        99,
+        "2021-06-10T00:00:00"
+       ],
+       [
+        "100636701",
+        24.9,
+        24.9,
+        "2021-07-15T00:00:00"
+       ]
+      ]
+     },
+     {
+      "StoreCode": "1304",
+      "ColumnsName": [
+       "Item",
+       "SalePriceBeforePromo",
+       "SalePriceTimePromo",
+       "DatePriceBeforePromo"
+      ],
+      "QtyGoods": 2,
+      "Data": [
+       [
+        "100493252",
+        129,
+        99,
+        "2021-06-10T00:00:00"
+       ],
+       [
+        "100636701",
+        24.9,
+        24.9,
+        "2021-07-15T00:00:00"
+       ]
+      ]
+     },
+     {
+      "StoreCode": "1306",
+      "ColumnsName": [
+       "Item",
+       "SalePriceBeforePromo",
+       "SalePriceTimePromo",
+       "DatePriceBeforePromo"
+      ],
+      "QtyGoods": 2,
+      "Data": [
+       [
+        "100493252",
+        119,
+        99,
+        "2021-04-28T00:00:00"
+       ],
+       [
+        "100636701",
+        24.9,
+        24.9,
+        "2021-07-15T00:00:00"
+       ]
+      ]
+     },
+     {
+      "StoreCode": "1307",
+      "ColumnsName": [
+       "Item",
+       "SalePriceBeforePromo",
+       "SalePriceTimePromo",
+       "DatePriceBeforePromo"
+      ],
+      "QtyGoods": 2,
+      "Data": [
+       [
+        "100493252",
+        119,
+        99,
+        "2021-06-10T00:00:00"
+       ],
+       [
+        "100636701",
+        24.9,
+        24.9,
+        "2021-07-15T00:00:00"
+       ]
+      ]
+     },
+     {
+      "StoreCode": "1659",
+      "ColumnsName": [
+       "Item",
+       "SalePriceBeforePromo",
+       "SalePriceTimePromo",
+       "DatePriceBeforePromo"
+      ],
+      "QtyGoods": 2,
+      "Data": [
+       [
+        "100493252",
+        119,
+        99,
+        "2021-06-10T00:00:00"
+       ],
+       [
+        "100636701",
+        24.9,
+        24.9,
+        "2021-07-15T00:00:00"
+       ]
+      ]
+     },
+     {
+      "StoreCode": "1296",
+      "ColumnsName": [
+       "Item",
+       "SalePriceBeforePromo",
+       "SalePriceTimePromo",
+       "DatePriceBeforePromo"
+      ],
+      "QtyGoods": 2,
+      "Data": [
+       [
+        "100493252",
+        129,
+        99,
+        "2021-06-10T00:00:00"
+       ],
+       [
+        "100636701",
+        24.9,
+        24.9,
+        "2021-07-15T00:00:00"
+       ]
+      ]
+     },
+     {
+      "StoreCode": "1297",
+      "ColumnsName": [
+       "Item",
+       "SalePriceBeforePromo",
+       "SalePriceTimePromo",
+       "DatePriceBeforePromo"
+      ],
+      "QtyGoods": 2,
+      "Data": [
+       [
+        "100493252",
+        129,
+        99,
+        "2021-06-10T00:00:00"
+       ],
+       [
+        "100636701",
+        24.9,
+        24.9,
+        "2021-07-15T00:00:00"
+       ]
+      ]
+     },
+     {
+      "StoreCode": "1298",
+      "ColumnsName": [
+       "Item",
+       "SalePriceBeforePromo",
+       "SalePriceTimePromo",
+       "DatePriceBeforePromo"
+      ],
+      "QtyGoods": 2,
+      "Data": [
+       [
+        "100493252",
+        129,
+        99,
+        "2021-06-10T00:00:00"
+       ],
+       [
+        "100636701",
+        24.9,
+        24.9,
+        "2021-07-15T00:00:00"
+       ]
+      ]
+     },
+     {
+      "StoreCode": "925",
+      "ColumnsName": [
+       "Item",
+       "SalePriceBeforePromo",
+       "SalePriceTimePromo",
+       "DatePriceBeforePromo"
+      ],
+      "QtyGoods": 2,
+      "Data": [
+       [
+        "100493252",
+        129,
+        99,
+        "2021-06-10T00:00:00"
+       ],
+       [
+        "100636701",
+        26.9,
+        26.9,
+        "2021-08-13T00:00:00"
+       ]
+      ]
+     },
+     {
+      "StoreCode": "1285",
+      "ColumnsName": [
+       "Item",
+       "SalePriceBeforePromo",
+       "SalePriceTimePromo",
+       "DatePriceBeforePromo"
+      ],
+      "QtyGoods": 2,
+      "Data": [
+       [
+        "100493252",
+        119,
+        99,
+        "2021-06-10T00:00:00"
+       ],
+       [
+        "100636701",
+        24.9,
+        24.9,
+        "2021-07-15T00:00:00"
+       ]
+      ]
+     },
+     {
+      "StoreCode": "1680",
+      "ColumnsName": [
+       "Item",
+       "SalePriceBeforePromo",
+       "SalePriceTimePromo",
+       "DatePriceBeforePromo"
+      ],
+      "QtyGoods": 2,
+      "Data": [
+       [
+        "100493252",
+        129,
+        99,
+        "2021-06-10T00:00:00"
+       ],
+       [
+        "100636701",
+        26.9,
+        26.9,
+        "2021-08-13T00:00:00"
+       ]
+      ]
+     },
+     {
+      "StoreCode": "1676",
+      "ColumnsName": [
+       "Item",
+       "SalePriceBeforePromo",
+       "SalePriceTimePromo",
+       "DatePriceBeforePromo"
+      ],
+      "QtyGoods": 2,
+      "Data": [
+       [
+        "100493252",
+        129,
+        99,
+        "2021-06-10T00:00:00"
+       ],
+       [
+        "100636701",
+        24.9,
+        24.9,
+        "2021-07-15T00:00:00"
+       ]
+      ]
+     },
+     {
+      "StoreCode": "1677",
+      "ColumnsName": [
+       "Item",
+       "SalePriceBeforePromo",
+       "SalePriceTimePromo",
+       "DatePriceBeforePromo"
+      ],
+      "QtyGoods": 2,
+      "Data": [
+       [
+        "100493252",
+        129,
+        99,
+        "2021-06-10T00:00:00"
+       ],
+       [
+        "100636701",
+        26.9,
+        26.9,
+        "2021-08-13T00:00:00"
+       ]
+      ]
+     },
+     {
+      "StoreCode": "1678",
+      "ColumnsName": [
+       "Item",
+       "SalePriceBeforePromo",
+       "SalePriceTimePromo",
+       "DatePriceBeforePromo"
+      ],
+      "QtyGoods": 2,
+      "Data": [
+       [
+        "100493252",
+        129,
+        99,
+        "2021-06-10T00:00:00"
+       ],
+       [
+        "100636701",
+        26.9,
+        26.9,
+        "2021-08-13T00:00:00"
+       ]
+      ]
+     },
+     {
+      "StoreCode": "1514",
+      "ColumnsName": [
+       "Item",
+       "SalePriceBeforePromo",
+       "SalePriceTimePromo",
+       "DatePriceBeforePromo"
+      ],
+      "QtyGoods": 2,
+      "Data": [
+       [
+        "100493252",
+        129,
+        99,
+        "2021-06-10T00:00:00"
+       ],
+       [
+        "100636701",
+        26.9,
+        26.9,
+        "2021-08-13T00:00:00"
+       ]
+      ]
+     },
+     {
+      "StoreCode": "975",
+      "ColumnsName": [
+       "Item",
+       "SalePriceBeforePromo",
+       "SalePriceTimePromo",
+       "DatePriceBeforePromo"
+      ],
+      "QtyGoods": 2,
+      "Data": [
+       [
+        "100493252",
+        119,
+        99,
+        "2021-05-17T00:00:00"
+       ],
+       [
+        "100636701",
+        24.9,
+        24.9,
+        "2021-07-15T00:00:00"
+       ]
+      ]
+     },
+     {
+      "StoreCode": "1468",
+      "ColumnsName": [
+       "Item",
+       "SalePriceBeforePromo",
+       "SalePriceTimePromo",
+       "DatePriceBeforePromo"
+      ],
+      "QtyGoods": 2,
+      "Data": [
+       [
+        "100493252",
+        119,
+        99,
+        "2021-06-10T00:00:00"
+       ],
+       [
+        "100636701",
+        24.9,
+        24.9,
+        "2021-07-15T00:00:00"
+       ]
+      ]
+     },
+     {
+      "StoreCode": "1469",
+      "ColumnsName": [
+       "Item",
+       "SalePriceBeforePromo",
+       "SalePriceTimePromo",
+       "DatePriceBeforePromo"
+      ],
+      "QtyGoods": 2,
+      "Data": [
+       [
+        "100493252",
+        129,
+        99,
+        "2021-06-10T00:00:00"
+       ],
+       [
+        "100636701",
+        26.9,
+        26.9,
+        "2021-08-13T00:00:00"
+       ]
+      ]
+     },
+     {
+      "StoreCode": "1533",
+      "ColumnsName": [
+       "Item",
+       "SalePriceBeforePromo",
+       "SalePriceTimePromo",
+       "DatePriceBeforePromo"
+      ],
+      "QtyGoods": 1,
+      "Data": [
+       [
+        "100636701",
+        24.9,
+        24.9,
+        "2021-07-15T00:00:00"
+       ]
+      ]
+     },
+     {
+      "StoreCode": "984",
+      "ColumnsName": [
+       "Item",
+       "SalePriceBeforePromo",
+       "SalePriceTimePromo",
+       "DatePriceBeforePromo"
+      ],
+      "QtyGoods": 2,
+      "Data": [
+       [
+        "100493252",
+        129,
+        99,
+        "2021-06-10T00:00:00"
+       ],
+       [
+        "100636701",
+        24.9,
+        24.9,
+        "2021-07-15T00:00:00"
+       ]
+      ]
+     },
+     {
+      "StoreCode": "979",
+      "ColumnsName": [
+       "Item",
+       "SalePriceBeforePromo",
+       "SalePriceTimePromo",
+       "DatePriceBeforePromo"
+      ],
+      "QtyGoods": 2,
+      "Data": [
+       [
+        "100493252",
+        129,
+        99,
+        "2021-06-10T00:00:00"
+       ],
+       [
+        "100636701",
+        26.9,
+        26.9,
+        "2021-08-13T00:00:00"
+       ]
+      ]
+     },
+     {
+      "StoreCode": "963",
+      "ColumnsName": [
+       "Item",
+       "SalePriceBeforePromo",
+       "SalePriceTimePromo",
+       "DatePriceBeforePromo"
+      ],
+      "QtyGoods": 1,
+      "Data": [
+       [
+        "100636701",
+        24.9,
+        24.9,
+        "2021-07-15T00:00:00"
+       ]
+      ]
+     },
+     {
+      "StoreCode": "1023",
+      "ColumnsName": [
+       "Item",
+       "SalePriceBeforePromo",
+       "SalePriceTimePromo",
+       "DatePriceBeforePromo"
+      ],
+      "QtyGoods": 2,
+      "Data": [
+       [
+        "100493252",
+        119,
+        99,
+        "2021-06-10T00:00:00"
+       ],
+       [
+        "100636701",
+        24.9,
+        24.9,
+        "2021-07-15T00:00:00"
+       ]
+      ]
+     },
+     {
+      "StoreCode": "993",
+      "ColumnsName": [
+       "Item",
+       "SalePriceBeforePromo",
+       "SalePriceTimePromo",
+       "DatePriceBeforePromo"
+      ],
+      "QtyGoods": 2,
+      "Data": [
+       [
+        "100493252",
+        119,
+        99,
+        "2021-06-10T00:00:00"
+       ],
+       [
+        "100636701",
+        24.9,
+        24.9,
+        "2021-07-15T00:00:00"
+       ]
+      ]
+     },
+     {
+      "StoreCode": "1249",
+      "ColumnsName": [
+       "Item",
+       "SalePriceBeforePromo",
+       "SalePriceTimePromo",
+       "DatePriceBeforePromo"
+      ],
+      "QtyGoods": 1,
+      "Data": [
+       [
+        "100636701",
+        24.9,
+        24.9,
+        "2021-07-15T00:00:00"
+       ]
+      ]
+     },
+     {
+      "StoreCode": "1325",
+      "ColumnsName": [
+       "Item",
+       "SalePriceBeforePromo",
+       "SalePriceTimePromo",
+       "DatePriceBeforePromo"
+      ],
+      "QtyGoods": 1,
+      "Data": [
+       [
+        "100636701",
+        24.9,
+        24.9,
+        "2021-07-15T00:00:00"
+       ]
+      ]
+     },
+     {
+      "StoreCode": "1496",
+      "ColumnsName": [
+       "Item",
+       "SalePriceBeforePromo",
+       "SalePriceTimePromo",
+       "DatePriceBeforePromo"
+      ],
+      "QtyGoods": 2,
+      "Data": [
+       [
+        "100493252",
+        119,
+        99,
+        "2021-06-10T00:00:00"
+       ],
+       [
+        "100636701",
+        24.9,
+        24.9,
+        "2021-07-15T00:00:00"
+       ]
+      ]
+     },
+     {
+      "StoreCode": "932",
+      "ColumnsName": [
+       "Item",
+       "SalePriceBeforePromo",
+       "SalePriceTimePromo",
+       "DatePriceBeforePromo"
+      ],
+      "QtyGoods": 2,
+      "Data": [
+       [
+        "100493252",
+        129,
+        99,
+        "2021-06-10T00:00:00"
+       ],
+       [
+        "100636701",
+        26.9,
+        26.9,
+        "2021-08-13T00:00:00"
+       ]
+      ]
+     },
+     {
+      "StoreCode": "931",
+      "ColumnsName": [
+       "Item",
+       "SalePriceBeforePromo",
+       "SalePriceTimePromo",
+       "DatePriceBeforePromo"
+      ],
+      "QtyGoods": 2,
+      "Data": [
+       [
+        "100493252",
+        119,
+        99,
+        "2021-06-10T00:00:00"
+       ],
+       [
+        "100636701",
+        24.9,
+        24.9,
+        "2021-07-15T00:00:00"
+       ]
+      ]
+     },
+     {
+      "StoreCode": "941",
+      "ColumnsName": [
+       "Item",
+       "SalePriceBeforePromo",
+       "SalePriceTimePromo",
+       "DatePriceBeforePromo"
+      ],
+      "QtyGoods": 2,
+      "Data": [
+       [
+        "100493252",
+        129,
+        99,
+        "2021-06-10T00:00:00"
+       ],
+       [
+        "100636701",
+        24.9,
+        24.9,
+        "2021-07-15T00:00:00"
+       ]
+      ]
+     },
+     {
+      "StoreCode": "943",
+      "ColumnsName": [
+       "Item",
+       "SalePriceBeforePromo",
+       "SalePriceTimePromo",
+       "DatePriceBeforePromo"
+      ],
+      "QtyGoods": 2,
+      "Data": [
+       [
+        "100493252",
+        129,
+        99,
+        "2021-06-10T00:00:00"
+       ],
+       [
+        "100636701",
+        26.9,
+        26.9,
+        "2021-08-13T00:00:00"
+       ]
+      ]
+     },
+     {
+      "StoreCode": "1251",
+      "ColumnsName": [
+       "Item",
+       "SalePriceBeforePromo",
+       "SalePriceTimePromo",
+       "DatePriceBeforePromo"
+      ],
+      "QtyGoods": 2,
+      "Data": [
+       [
+        "100493252",
+        119,
+        99,
+        "2021-06-10T00:00:00"
+       ],
+       [
+        "100636701",
+        24.9,
+        24.9,
+        "2021-07-15T00:00:00"
+       ]
+      ]
+     },
+     {
+      "StoreCode": "1252",
+      "ColumnsName": [
+       "Item",
+       "SalePriceBeforePromo",
+       "SalePriceTimePromo",
+       "DatePriceBeforePromo"
+      ],
+      "QtyGoods": 2,
+      "Data": [
+       [
+        "100493252",
+        119,
+        99,
+        "2021-06-10T00:00:00"
+       ],
+       [
+        "100636701",
+        24.9,
+        24.9,
+        "2021-07-15T00:00:00"
+       ]
+      ]
+     },
+     {
+      "StoreCode": "1071",
+      "ColumnsName": [
+       "Item",
+       "SalePriceBeforePromo",
+       "SalePriceTimePromo",
+       "DatePriceBeforePromo"
+      ],
+      "QtyGoods": 2,
+      "Data": [
+       [
+        "100493252",
+        119,
+        99,
+        "2021-05-17T00:00:00"
+       ],
+       [
+        "100636701",
+        24.9,
+        24.9,
+        "2021-07-15T00:00:00"
+       ]
+      ]
+     },
+     {
+      "StoreCode": "1078",
+      "ColumnsName": [
+       "Item",
+       "SalePriceBeforePromo",
+       "SalePriceTimePromo",
+       "DatePriceBeforePromo"
+      ],
+      "QtyGoods": 2,
+      "Data": [
+       [
+        "100493252",
+        119,
+        99,
+        "2021-06-10T00:00:00"
+       ],
+       [
+        "100636701",
+        24.9,
+        24.9,
+        "2021-07-15T00:00:00"
+       ]
+      ]
+     },
+     {
+      "StoreCode": "1081",
+      "ColumnsName": [
+       "Item",
+       "SalePriceBeforePromo",
+       "SalePriceTimePromo",
+       "DatePriceBeforePromo"
+      ],
+      "QtyGoods": 2,
+      "Data": [
+       [
+        "100493252",
+        119,
+        99,
+        "2021-06-10T00:00:00"
+       ],
+       [
+        "100636701",
+        24.9,
+        24.9,
+        "2021-07-15T00:00:00"
+       ]
+      ]
+     },
+     {
+      "StoreCode": "1082",
+      "ColumnsName": [
+       "Item",
+       "SalePriceBeforePromo",
+       "SalePriceTimePromo",
+       "DatePriceBeforePromo"
+      ],
+      "QtyGoods": 2,
+      "Data": [
+       [
+        "100493252",
+        119,
+        99,
+        "2021-06-10T00:00:00"
+       ],
+       [
+        "100636701",
+        24.9,
+        24.9,
+        "2021-07-15T00:00:00"
+       ]
+      ]
+     },
+     {
+      "StoreCode": "1087",
+      "ColumnsName": [
+       "Item",
+       "SalePriceBeforePromo",
+       "SalePriceTimePromo",
+       "DatePriceBeforePromo"
+      ],
+      "QtyGoods": 2,
+      "Data": [
+       [
+        "100493252",
+        119,
+        99,
+        "2021-06-10T00:00:00"
+       ],
+       [
+        "100636701",
+        24.9,
+        24.9,
+        "2021-07-15T00:00:00"
+       ]
+      ]
+     },
+     {
+      "StoreCode": "1090",
+      "ColumnsName": [
+       "Item",
+       "SalePriceBeforePromo",
+       "SalePriceTimePromo",
+       "DatePriceBeforePromo"
+      ],
+      "QtyGoods": 2,
+      "Data": [
+       [
+        "100493252",
+        119,
+        99,
+        "2021-06-10T00:00:00"
+       ],
+       [
+        "100636701",
+        24.9,
+        24.9,
+        "2021-07-15T00:00:00"
+       ]
+      ]
+     },
+     {
+      "StoreCode": "1103",
+      "ColumnsName": [
+       "Item",
+       "SalePriceBeforePromo",
+       "SalePriceTimePromo",
+       "DatePriceBeforePromo"
+      ],
+      "QtyGoods": 2,
+      "Data": [
+       [
+        "100493252",
+        119,
+        99,
+        "2021-06-10T00:00:00"
+       ],
+       [
+        "100636701",
+        24.9,
+        24.9,
+        "2021-07-15T00:00:00"
+       ]
+      ]
+     },
+     {
+      "StoreCode": "1104",
+      "ColumnsName": [
+       "Item",
+       "SalePriceBeforePromo",
+       "SalePriceTimePromo",
+       "DatePriceBeforePromo"
+      ],
+      "QtyGoods": 1,
+      "Data": [
+       [
+        "100636701",
+        24.9,
+        24.9,
+        "2021-07-15T00:00:00"
+       ]
+      ]
+     },
+     {
+      "StoreCode": "1107",
+      "ColumnsName": [
+       "Item",
+       "SalePriceBeforePromo",
+       "SalePriceTimePromo",
+       "DatePriceBeforePromo"
+      ],
+      "QtyGoods": 2,
+      "Data": [
+       [
+        "100493252",
+        119,
+        99,
+        "2021-06-10T00:00:00"
+       ],
+       [
+        "100636701",
+        24.9,
+        24.9,
+        "2021-07-15T00:00:00"
+       ]
+      ]
+     },
+     {
+      "StoreCode": "1109",
+      "ColumnsName": [
+       "Item",
+       "SalePriceBeforePromo",
+       "SalePriceTimePromo",
+       "DatePriceBeforePromo"
+      ],
+      "QtyGoods": 2,
+      "Data": [
+       [
+        "100493252",
+        119,
+        99,
+        "2021-06-10T00:00:00"
+       ],
+       [
+        "100636701",
+        24.9,
+        24.9,
+        "2021-07-15T00:00:00"
+       ]
+      ]
+     },
+     {
+      "StoreCode": "1117",
+      "ColumnsName": [
+       "Item",
+       "SalePriceBeforePromo",
+       "SalePriceTimePromo",
+       "DatePriceBeforePromo"
+      ],
+      "QtyGoods": 1,
+      "Data": [
+       [
+        "100636701",
+        24.9,
+        24.9,
+        "2021-07-15T00:00:00"
+       ]
+      ]
+     },
+     {
+      "StoreCode": "1118",
+      "ColumnsName": [
+       "Item",
+       "SalePriceBeforePromo",
+       "SalePriceTimePromo",
+       "DatePriceBeforePromo"
+      ],
+      "QtyGoods": 2,
+      "Data": [
+       [
+        "100493252",
+        119,
+        99,
+        "2021-06-10T00:00:00"
+       ],
+       [
+        "100636701",
+        24.9,
+        24.9,
+        "2021-07-15T00:00:00"
+       ]
+      ]
+     },
+     {
+      "StoreCode": "1119",
+      "ColumnsName": [
+       "Item",
+       "SalePriceBeforePromo",
+       "SalePriceTimePromo",
+       "DatePriceBeforePromo"
+      ],
+      "QtyGoods": 1,
+      "Data": [
+       [
+        "100636701",
+        24.9,
+        24.9,
+        "2021-07-15T00:00:00"
+       ]
+      ]
+     },
+     {
+      "StoreCode": "1602",
+      "ColumnsName": [
+       "Item",
+       "SalePriceBeforePromo",
+       "SalePriceTimePromo",
+       "DatePriceBeforePromo"
+      ],
+      "QtyGoods": 2,
+      "Data": [
+       [
+        "100493252",
+        119,
+        99,
+        "2021-05-17T00:00:00"
+       ],
+       [
+        "100636701",
+        24.9,
+        24.9,
+        "2021-07-15T00:00:00"
+       ]
+      ]
+     },
+     {
+      "StoreCode": "1667",
+      "ColumnsName": [
+       "Item",
+       "SalePriceBeforePromo",
+       "SalePriceTimePromo",
+       "DatePriceBeforePromo"
+      ],
+      "QtyGoods": 2,
+      "Data": [
+       [
+        "100493252",
+        119,
+        99,
+        "2021-06-10T00:00:00"
+       ],
+       [
+        "100636701",
+        24.9,
+        24.9,
+        "2021-07-15T00:00:00"
+       ]
+      ]
+     },
+     {
+      "StoreCode": "1643",
+      "ColumnsName": [
+       "Item",
+       "SalePriceBeforePromo",
+       "SalePriceTimePromo",
+       "DatePriceBeforePromo"
+      ],
+      "QtyGoods": 2,
+      "Data": [
+       [
+        "100493252",
+        119,
+        99,
+        "2021-06-10T00:00:00"
+       ],
+       [
+        "100636701",
+        24.9,
+        24.9,
+        "2021-07-15T00:00:00"
+       ]
+      ]
+     },
+     {
+      "StoreCode": "1131",
+      "ColumnsName": [
+       "Item",
+       "SalePriceBeforePromo",
+       "SalePriceTimePromo",
+       "DatePriceBeforePromo"
+      ],
+      "QtyGoods": 1,
+      "Data": [
+       [
+        "100636701",
+        24.9,
+        24.9,
+        "2021-07-15T00:00:00"
+       ]
+      ]
+     },
+     {
+      "StoreCode": "1136",
+      "ColumnsName": [
+       "Item",
+       "SalePriceBeforePromo",
+       "SalePriceTimePromo",
+       "DatePriceBeforePromo"
+      ],
+      "QtyGoods": 2,
+      "Data": [
+       [
+        "100493252",
+        119,
+        99,
+        "2021-06-10T00:00:00"
+       ],
+       [
+        "100636701",
+        24.9,
+        24.9,
+        "2021-07-15T00:00:00"
+       ]
+      ]
+     },
+     {
+      "StoreCode": "1139",
+      "ColumnsName": [
+       "Item",
+       "SalePriceBeforePromo",
+       "SalePriceTimePromo",
+       "DatePriceBeforePromo"
+      ],
+      "QtyGoods": 2,
+      "Data": [
+       [
+        "100493252",
+        119,
+        99,
+        "2021-06-10T00:00:00"
+       ],
+       [
+        "100636701",
+        24.9,
+        24.9,
+        "2021-07-15T00:00:00"
+       ]
+      ]
+     },
+     {
+      "StoreCode": "1151",
+      "ColumnsName": [
+       "Item",
+       "SalePriceBeforePromo",
+       "SalePriceTimePromo",
+       "DatePriceBeforePromo"
+      ],
+      "QtyGoods": 2,
+      "Data": [
+       [
+        "100493252",
+        119,
+        99,
+        "2021-06-10T00:00:00"
+       ],
+       [
+        "100636701",
+        24.9,
+        24.9,
+        "2021-07-15T00:00:00"
+       ]
+      ]
+     },
+     {
+      "StoreCode": "1153",
+      "ColumnsName": [
+       "Item",
+       "SalePriceBeforePromo",
+       "SalePriceTimePromo",
+       "DatePriceBeforePromo"
+      ],
+      "QtyGoods": 1,
+      "Data": [
+       [
+        "100636701",
+        24.9,
+        24.9,
+        "2021-07-15T00:00:00"
+       ]
+      ]
+     },
+     {
+      "StoreCode": "1155",
+      "ColumnsName": [
+       "Item",
+       "SalePriceBeforePromo",
+       "SalePriceTimePromo",
+       "DatePriceBeforePromo"
+      ],
+      "QtyGoods": 2,
+      "Data": [
+       [
+        "100493252",
+        119,
+        99,
+        "2021-06-10T00:00:00"
+       ],
+       [
+        "100636701",
+        24.9,
+        24.9,
+        "2021-07-15T00:00:00"
+       ]
+      ]
+     },
+     {
+      "StoreCode": "1159",
+      "ColumnsName": [
+       "Item",
+       "SalePriceBeforePromo",
+       "SalePriceTimePromo",
+       "DatePriceBeforePromo"
+      ],
+      "QtyGoods": 2,
+      "Data": [
+       [
+        "100493252",
+        119,
+        99,
+        "2021-06-10T00:00:00"
+       ],
+       [
+        "100636701",
+        24.9,
+        24.9,
+        "2021-07-15T00:00:00"
+       ]
+      ]
+     },
+     {
+      "StoreCode": "1186",
+      "ColumnsName": [
+       "Item",
+       "SalePriceBeforePromo",
+       "SalePriceTimePromo",
+       "DatePriceBeforePromo"
+      ],
+      "QtyGoods": 2,
+      "Data": [
+       [
+        "100493252",
+        119,
+        99,
+        "2021-06-10T00:00:00"
+       ],
+       [
+        "100636701",
+        24.9,
+        24.9,
+        "2021-07-15T00:00:00"
+       ]
+      ]
+     },
+     {
+      "StoreCode": "1195",
+      "ColumnsName": [
+       "Item",
+       "SalePriceBeforePromo",
+       "SalePriceTimePromo",
+       "DatePriceBeforePromo"
+      ],
+      "QtyGoods": 1,
+      "Data": [
+       [
+        "100636701",
+        24.9,
+        24.9,
+        "2021-07-15T00:00:00"
+       ]
+      ]
+     },
+     {
+      "StoreCode": "911",
+      "ColumnsName": [
+       "Item",
+       "SalePriceBeforePromo",
+       "SalePriceTimePromo",
+       "DatePriceBeforePromo"
+      ],
+      "QtyGoods": 2,
+      "Data": [
+       [
+        "100493252",
+        119,
+        99,
+        "2021-06-10T00:00:00"
+       ],
+       [
+        "100636701",
+        24.9,
+        24.9,
+        "2021-07-15T00:00:00"
+       ]
+      ]
+     },
+     {
+      "StoreCode": "1002",
+      "ColumnsName": [
+       "Item",
+       "SalePriceBeforePromo",
+       "SalePriceTimePromo",
+       "DatePriceBeforePromo"
+      ],
+      "QtyGoods": 1,
+      "Data": [
+       [
+        "100636701",
+        24.9,
+        24.9,
+        "2021-07-15T00:00:00"
+       ]
+      ]
+     },
+     {
+      "StoreCode": "1272",
+      "ColumnsName": [
+       "Item",
+       "SalePriceBeforePromo",
+       "SalePriceTimePromo",
+       "DatePriceBeforePromo"
+      ],
+      "QtyGoods": 2,
+      "Data": [
+       [
+        "100493252",
+        119,
+        99,
+        "2021-06-10T00:00:00"
+       ],
+       [
+        "100636701",
+        24.9,
+        24.9,
+        "2021-07-15T00:00:00"
+       ]
+      ]
+     },
+     {
+      "StoreCode": "1636",
+      "ColumnsName": [
+       "Item",
+       "SalePriceBeforePromo",
+       "SalePriceTimePromo",
+       "DatePriceBeforePromo"
+      ],
+      "QtyGoods": 2,
+      "Data": [
+       [
+        "100493252",
+        129,
+        99,
+        "2021-06-10T00:00:00"
+       ],
+       [
+        "100636701",
+        24.9,
+        24.9,
+        "2021-07-15T00:00:00"
+       ]
+      ]
+     },
+     {
+      "StoreCode": "1640",
+      "ColumnsName": [
+       "Item",
+       "SalePriceBeforePromo",
+       "SalePriceTimePromo",
+       "DatePriceBeforePromo"
+      ],
+      "QtyGoods": 2,
+      "Data": [
+       [
+        "100493252",
+        119,
+        99,
+        "2021-06-10T00:00:00"
+       ],
+       [
+        "100636701",
+        24.9,
+        24.9,
+        "2021-07-15T00:00:00"
+       ]
+      ]
+     },
+     {
+      "StoreCode": "1257",
+      "ColumnsName": [
+       "Item",
+       "SalePriceBeforePromo",
+       "SalePriceTimePromo",
+       "DatePriceBeforePromo"
+      ],
+      "QtyGoods": 1,
+      "Data": [
+       [
+        "100636701",
+        24.9,
+        24.9,
+        "2021-07-15T00:00:00"
+       ]
+      ]
+     },
+     {
+      "StoreCode": "902",
+      "ColumnsName": [
+       "Item",
+       "SalePriceBeforePromo",
+       "SalePriceTimePromo",
+       "DatePriceBeforePromo"
+      ],
+      "QtyGoods": 2,
+      "Data": [
+       [
+        "100493252",
+        129,
+        99,
+        "2021-06-10T00:00:00"
+       ],
+       [
+        "100636701",
+        26.9,
+        26.9,
+        "2021-08-13T00:00:00"
+       ]
+      ]
+     },
+     {
+      "StoreCode": "921",
+      "ColumnsName": [
+       "Item",
+       "SalePriceBeforePromo",
+       "SalePriceTimePromo",
+       "DatePriceBeforePromo"
+      ],
+      "QtyGoods": 2,
+      "Data": [
+       [
+        "100493252",
+        119,
+        99,
+        "2021-05-17T00:00:00"
+       ],
+       [
+        "100636701",
+        24.9,
+        24.9,
+        "2021-07-15T00:00:00"
+       ]
+      ]
+     },
+     {
+      "StoreCode": "1598",
+      "ColumnsName": [
+       "Item",
+       "SalePriceBeforePromo",
+       "SalePriceTimePromo",
+       "DatePriceBeforePromo"
+      ],
+      "QtyGoods": 2,
+      "Data": [
+       [
+        "100493252",
+        119,
+        99,
+        "2021-06-10T00:00:00"
+       ],
+       [
+        "100636701",
+        24.9,
+        24.9,
+        "2021-07-15T00:00:00"
+       ]
+      ]
+     },
+     {
+      "StoreCode": "971",
+      "ColumnsName": [
+       "Item",
+       "SalePriceBeforePromo",
+       "SalePriceTimePromo",
+       "DatePriceBeforePromo"
+      ],
+      "QtyGoods": 2,
+      "Data": [
+       [
+        "100493252",
+        129,
+        99,
+        "2021-06-10T00:00:00"
+       ],
+       [
+        "100636701",
+        26.9,
+        26.9,
+        "2021-08-13T00:00:00"
+       ]
+      ]
+     },
+     {
+      "StoreCode": "967",
+      "ColumnsName": [
+       "Item",
+       "SalePriceBeforePromo",
+       "SalePriceTimePromo",
+       "DatePriceBeforePromo"
+      ],
+      "QtyGoods": 2,
+      "Data": [
+       [
+        "100493252",
+        129,
+        99,
+        "2021-06-10T00:00:00"
+       ],
+       [
+        "100636701",
+        26.9,
+        26.9,
+        "2021-08-13T00:00:00"
+       ]
+      ]
+     },
+     {
+      "StoreCode": "1536",
+      "ColumnsName": [
+       "Item",
+       "SalePriceBeforePromo",
+       "SalePriceTimePromo",
+       "DatePriceBeforePromo"
+      ],
+      "QtyGoods": 2,
+      "Data": [
+       [
+        "100493252",
+        119,
+        99,
+        "2021-06-10T00:00:00"
+       ],
+       [
+        "100636701",
+        24.9,
+        24.9,
+        "2021-07-15T00:00:00"
+       ]
+      ]
+     }
+    ],
+    "DiscountType": "Price",
+    "PriceOptions": null,
+    "DiscountValue": 99,
+    "QtyPrices": 70,
+    "Name": "99 окрошка франшиза"
+   }
+  ],
+  "QtyGoodsLists": 3
+ }
+}

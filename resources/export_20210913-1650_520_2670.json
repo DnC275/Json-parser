@@ -1,0 +1,229 @@
+{
+ "GeneralInfo": {
+  "DeletionMark": false,
+  "PWCguid": "650ad538-e9ff-11eb-9754-00155d97af00",
+  "IsChangedDataEnd": false,
+  "DateBegin": "2018-05-27T12:55:42",
+  "DateEnd": "3999-12-31T23:59:59",
+  "PWCcode": "000005659",
+  "Description": "Добрый 1 за 39,90, 2 за 69,90, 3 за 89,90",
+  "PromoTypeCode": "000000026",
+  "WorkingState": "Остановлена",
+  "Clients": {
+   "QtyClients": 0,
+   "UIDs": []
+  }
+ },
+ "Information": {
+  "GoodsLists": [
+   {
+    "Prices": [
+     {
+      "StoreCode": "1354",
+      "ColumnsName": [
+       "Item",
+       "SalePriceBeforePromo",
+       "SalePriceTimePromo",
+       "DatePriceBeforePromo"
+      ],
+      "QtyGoods": 5,
+      "Data": [
+       [
+        "141219",
+        55.2,
+        39.9,
+        "2021-07-13T00:00:00"
+       ],
+       [
+        "141223",
+        55.2,
+        39.9,
+        "2021-07-13T00:00:00"
+       ],
+       [
+        "141220",
+        55.2,
+        39.9,
+        "2021-07-13T00:00:00"
+       ],
+       [
+        "100243624",
+        55.2,
+        39.9,
+        "2021-07-13T00:00:00"
+       ],
+       [
+        "100243683",
+        55.2,
+        39.9,
+        "2021-07-13T00:00:00"
+       ]
+      ]
+     }
+    ],
+    "DiscountType": "PricePerUnit",
+    "PriceOptions": [
+     {
+      "FirstValue": 1,
+      "Name": "Товар",
+      "Operator": "Equals",
+      "SecondValue": null,
+      "Type": "GoodsQuantity"
+     }
+    ],
+    "DiscountValue": 39.9,
+    "QtyPrices": 1,
+    "Name": "1 сок"
+   },
+   {
+    "GoodsComposition": [
+     {
+      "QtyGoods": 5,
+      "Value": 2,
+      "GoodsCode": [
+       "100243624",
+       "100243683",
+       "141219",
+       "141220",
+       "141223"
+      ],
+      "ValueType": "Quantity"
+     }
+    ],
+    "QtyCompositions": 1,
+    "Prices": [
+     {
+      "StoreCode": "1354",
+      "ColumnsName": [
+       "Item",
+       "SalePriceBeforePromo",
+       "SalePriceTimePromo",
+       "DatePriceBeforePromo"
+      ],
+      "QtyGoods": 5,
+      "Data": [
+       [
+        "141219",
+        55.2,
+        34.95,
+        "2021-07-13T00:00:00"
+       ],
+       [
+        "141223",
+        55.2,
+        34.95,
+        "2021-07-13T00:00:00"
+       ],
+       [
+        "141220",
+        55.2,
+        34.95,
+        "2021-07-13T00:00:00"
+       ],
+       [
+        "100243624",
+        55.2,
+        34.95,
+        "2021-07-13T00:00:00"
+       ],
+       [
+        "100243683",
+        55.2,
+        34.95,
+        "2021-07-13T00:00:00"
+       ]
+      ]
+     }
+    ],
+    "DiscountType": "Price",
+    "PriceOptions": [
+     {
+      "FirstValue": 2,
+      "Name": "Товар",
+      "Operator": "LessOrEqual",
+      "SecondValue": null,
+      "Type": "GoodsQuantity"
+     }
+    ],
+    "DiscountValue": 69.9,
+    "QtyPrices": 1,
+    "Name": "2 сока"
+   },
+   {
+    "GoodsComposition": [
+     {
+      "QtyGoods": 5,
+      "Value": 3,
+      "GoodsCode": [
+       "100243624",
+       "100243683",
+       "141219",
+       "141220",
+       "141223"
+      ],
+      "ValueType": "Quantity"
+     }
+    ],
+    "QtyCompositions": 1,
+    "Prices": [
+     {
+      "StoreCode": "1354",
+      "ColumnsName": [
+       "Item",
+       "SalePriceBeforePromo",
+       "SalePriceTimePromo",
+       "DatePriceBeforePromo"
+      ],
+      "QtyGoods": 5,
+      "Data": [
+       [
+        "141219",
+        55.2,
+        29.97,
+        "2021-07-13T00:00:00"
+       ],
+       [
+        "141223",
+        55.2,
+        29.97,
+        "2021-07-13T00:00:00"
+       ],
+       [
+        "141220",
+        55.2,
+        29.97,
+        "2021-07-13T00:00:00"
+       ],
+       [
+        "100243624",
+        55.2,
+        29.97,
+        "2021-07-13T00:00:00"
+       ],
+       [
+        "100243683",
+        55.2,
+        29.97,
+        "2021-07-13T00:00:00"
+       ]
+      ]
+     }
+    ],
+    "DiscountType": "Price",
+    "PriceOptions": [
+     {
+      "FirstValue": 3,
+      "Name": "Товар",
+      "Operator": "LessOrEqual",
+      "SecondValue": null,
+      "Type": "GoodsQuantity"
+     }
+    ],
+    "DiscountValue": 89.9,
+    "QtyPrices": 1,
+    "Name": "3 сока"
+   }
+  ],
+  "QtyGoodsLists": 3
+ }
+}
