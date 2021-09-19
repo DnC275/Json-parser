@@ -50,21 +50,6 @@ if __name__ == '__main__':
     path = './resources/'
     files = os.listdir(path)
 
-    # columns_index = {'Item': 0,
-    #                  'SalePriceBeforePromo': 1,
-    #                  'SalePriceTimePromo': 2,
-    #                  'DatePriceBeforePromo': 3,
-    #                  'ObjCode': 4,
-    #                  'DiscountType': 5,
-    #                  'DiscountValue': 6,
-    #                  'DateBegin': 7,
-    #                  'DateEnd': 8,
-    #                  'PWCcode': 9,
-    #                  'Value': 10,
-    #                  'FirstValue': 11,
-    #                  'LessOrEqual': 12,
-    #                  'File': 13}
-
     my_columns = [ITEM, SALE_PRICE_BEFORE, SALE_PRICE_TIME, DATE_PRICE_BEFORE, OBJ_CODE, DISCOUNT_TYPE,
                   DISCOUNT_VALUE, DATE_BEGIN, DATE_END, PWC_CODE, VALUE, FIRST_VALUE, LESS_OR_EQUAL, FILE]
 
@@ -76,7 +61,6 @@ if __name__ == '__main__':
 
     k = 0
     for file in files:
-        print(file)
         with open(path + file, 'r') as read_file:
             data = json.load(read_file)
             tmp_dict = {FILE: file}
